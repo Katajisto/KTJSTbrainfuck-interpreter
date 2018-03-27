@@ -15,3 +15,5 @@ A C++ interpreter for my take on the esoteric programming language Brainfuck.
     ; : takes integer input.
     : : prints a integer.
     % : prints a "\n";
+      
+    Thanks to learnXinY for the description of base brainfuck that I added my features onto.
